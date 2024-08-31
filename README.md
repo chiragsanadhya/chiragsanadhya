@@ -6,10 +6,10 @@ Welcome to my GitHub! I’m a passionate data scientist with a solid foundation 
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** (Specialization in AI & Data Science) from Maharaja Agrasen Institute of Technology.
-- 💡 Experienced in developing and deploying solutions using **Python, TensorFlow, and cloud technologies**.
-- 🌟 Actively contributing to the data science community on **Kaggle**, where my projects have received over 60 copies and edits.
-- 🛠️ Continuously exploring new technologies and methodologies to enhance my skills and stay updated with the latest trends in AI and machine learning.
+- 🎓 **B.Tech in Computer Science & Engineering** (AI & Data Science) from Maharaja Agrasen Institute of Technology.
+- 💡 Skilled in **Python, TensorFlow, and cloud technologies** with experience in deploying data-driven solutions.
+- 🌟 Active Kaggle contributor, with projects receiving over 60 copies and edits.
+- 🛠️ Always exploring new technologies to stay ahead in AI and machine learning.
 
 # 📈 GitHub Stats
 
@@ -20,69 +20,29 @@ Welcome to my GitHub! I’m a passionate data scientist with a solid foundation 
 
 ## 🛠️ Technical Skills
 
-- **Data Analysis:** Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, Statistical Analysis
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, CNNs, RNNs, Transformers, OpenCV, NLP (NLTK, SpaCy, BERT)
-- **Cloud & DevOps:** AWS, Google Cloud, Docker, CI/CD, Streamlit, Flask
-- **Specialties:** Image Processing, Object Detection, Text Generation, Fine-tuning LLMs, Vector Databases
+- **Data Analysis:** Python, Pandas, Matplotlib, SQL
+- **Machine Learning & AI:** TensorFlow, Keras, Transformers, OpenCV, NLP
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, CI/CD, Streamlit
+- **Specialties:** Image Processing, Text Generation, LLM Fine-tuning
 
 ## 💼 Projects
 
 ### 🍲 Food Recommendation System
-**[GitHub Repository](https://github.com/chiragsanadhya/Food-Recommendation-System)**
-
-Developed a recommendation system that suggests recipes based on user-provided ingredients. This project utilizes machine learning algorithms and NLP techniques to help users explore similar recipes.
-
-- **Objective:** To assist users in finding recipes that match the ingredients they have on hand, reducing food waste and promoting culinary creativity.
-- **Technologies Used:** Python, Pandas, Scikit-learn, NLP
-- **Key Features:**
-  - Ingredient-based filtering
-  - Similar recipe suggestions
-  - User-friendly interface for easy navigation
-
+A system that suggests recipes based on user-provided ingredients using machine learning and NLP techniques.
 
 ### 🌿 Plant Disease Classification
-**[GitHub Repository](https://github.com/chiragsanadhya/Plant-Disease-Classification)**
-
-Built a Convolutional Neural Network (CNN) to classify plant diseases from images. This project leverages TensorFlow and OpenCV to help farmers and agricultural professionals detect diseases early.
-
-- **Objective:** To provide an automated system for early detection of plant diseases, thereby aiding in timely intervention and crop management.
-- **Technologies Used:** Python, TensorFlow, Keras, OpenCV
-- **Key Features:**
-  - High accuracy in disease classification
-  - Real-time image processing
-  - Dataset augmentation for improved model robustness
+A CNN model to classify plant diseases from images, aiding early detection and intervention.
 
 ### 📄 PDF Chatbot with History
-**[GitHub Repository](https://github.com/chiragsanadhya/PDF-Chatbot)**
+An interactive Q&A chatbot for PDFs with chat history, leveraging LangChain and Groq for LLM tasks.
 
-Created an interactive Q&A chatbot for PDFs that retains chat history. This project integrates LangChain for document retrieval and Groq for LLM tasks, with a user-friendly interface built using Streamlit.
-
-- **Objective:** To enable users to interact with PDF documents conversationally, making information retrieval more intuitive and efficient.
-- **Technologies Used:** Python, LangChain, Groq, Streamlit
-- **Key Features:**
-  - Conversational interface for querying PDF content
-  - Chat history for context-aware responses
-  - Seamless integration with various PDF formats
-### 🤖 ModelMatic: Automating Machine Learning Workflows
-**[GitHub Repository](https://github.com/chiragsanadhya/ModelMatic)**
-
-ModelMatic is a Streamlit-based application designed to simplify and automate the end-to-end machine learning workflow. It allows users to:
-
-- Upload a CSV file.
-- Select an algorithm and specify the train-test split ratio.
-- Automatically preprocess data, including encoding categorical variables.
-- Train models for classification or regression.
-- Generate predictions and display results in a clear, easy-to-understand format.
-
-The app imports functions from custom classes (`Regression` and `Classification`) to handle data preprocessing, model training, and predictions.
+### 🤖 ModelMatic
+A Streamlit app that automates machine learning workflows, from data preprocessing to model training and predictions.
 
 ## ✍️ Blogs & Contributions
 
 - **[Speeding up Python with NumPy](https://chiragsanadhya1411.medium.com/speeding-up-python-with-numpy)**  
-  An in-depth guide on leveraging NumPy to enhance the performance of Python applications, covering vectorization, broadcasting, and efficient memory usage.
-
 - **[Mastering SQL Essentials](https://chiragsanadhya1411.medium.com/mastering-sql-essentials)**  
-  A comprehensive tutorial on essential SQL concepts, including joins, subqueries, indexing, and optimization techniques for effective database management.
 
 ## 🌐 Connect with Me
 
@@ -96,4 +56,3 @@ The app imports functions from custom classes (`Regression` and `Classification`
 ---
 
 Feel free to explore my repositories, fork projects that interest you, and reach out if you'd like to collaborate on something exciting!
-
